@@ -13,6 +13,7 @@
 
 <p align="center">
   안녕하세요! DevOps 개발자 - 클라우드 엔지니어 지망생 강민종입니다 !
+  devops-game.tistory.com
 </p>
 
 <!-- 기술 스택 -->
