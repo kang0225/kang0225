@@ -12,7 +12,7 @@
 <h1 align="center"> Hi There !👋</h1>
 
 <p align="center">
-  안녕하세요! DevOps 개발자 - 클라우드 엔지니어 지망생 강민종입니다 !  
+  안녕하세요! iOS 앱/웹 개발자 지망생 강민종입니다 !  
   devops-game.tistory.com
 </p>
 
