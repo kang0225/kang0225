@@ -55,7 +55,7 @@
 
 <div align="center">
   
-[바로가기](/Algorithm-problem-solving-thought-process/README.md)
+[바로가기](/Algorithm-problem-solving-thought-process/)
 
 </div><br><br><br>
 
