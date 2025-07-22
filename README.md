@@ -12,7 +12,7 @@
 <h1 align="center"> Hi There !👋</h1>
 
 <p align="center">
-  안녕하세요! 풀스택 개발자 지망생 강민종입니다 !  
+  안녕하세요! ML 엔지니어 지망생 강민종입니다 !  
   devops-game.tistory.com
 </p>
 
@@ -23,18 +23,20 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
 </p>
 
 <!-- My lab -->
-<div align="center"><h3>🧪 My Lab</h3></div>
-
-***
+<h2 align="center">🧪 My Lab</h2>
 
 <p align="center">1. 더 좋은 알고리즘을 만들기 위해 스스로 공부하며 지식을 쌓는 공간입니다.</p>
 
@@ -51,6 +53,11 @@
 
 <p align="center">2. 스스로 알고리즘 공부를 위해 문제를 풀이하는 공간입니다.</p>
 
+<div align="center">
+  
+[바로가기](/Algorithm-problem-solving-thought-process/README.md)
+
+</div><br><br><br>
 
 <!-- 연락처 -->
 <h2 align="center">Contact</h2>
