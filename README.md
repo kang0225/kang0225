@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -48,6 +47,9 @@
 • [대규모 데이터베이스 성능 향상을 위한 샤딩 알고리즘](https://devops-game.tistory.com/7)  
 • [B+트리를 활용하여 DB 인덱싱하기](https://devops-game.tistory.com/8)   
 • [데이터 불균형 문제 해소를 위한 SMOTE와 SMOTEENN 샘플링 기법](https://devops-game.tistory.com/11)
+• [AWS VPC Endpoint를 활용한 보안 및 비용 최적화](https://devops-game.tistory.com/12)
+• [MSA 환경에서 SNS + SQS, Apache Kafka를 활용하여 시스템 결합도 낮추기](https://devops-game.tistory.com/13)
+
 
 </div><br><br><br>
 
