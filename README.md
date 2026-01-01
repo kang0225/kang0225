@@ -46,7 +46,8 @@
 • [캐시를 활용한 고성능 데이터 조회 시스템](https://devops-game.tistory.com/6)  
 • [대규모 데이터베이스 성능 향상을 위한 샤딩 알고리즘](https://devops-game.tistory.com/7)  
 • [B+트리를 활용하여 DB 인덱싱하기](https://devops-game.tistory.com/8)  
-• [데이터 불균형 문제 해소를 위한 SMOTE와 SMOTEENN 샘플링 기법](https://devops-game.tistory.com/11)  
+• [데이터 불균형 문제 해소를 위한 SMOTE와 SMOTEENN 샘플링 기법](https://devops-game.tistory.com/11)    
+  
 • [AWS VPC Endpoint를 활용한 보안 및 비용 최적화](https://devops-game.tistory.com/12)  
 • [MSA 환경에서 SNS + SQS, Apache Kafka를 활용하여 시스템 결합도 낮추기](https://devops-game.tistory.com/13)  
 
