@@ -50,6 +50,7 @@
   
 • [AWS VPC Endpoint를 활용한 보안 및 비용 최적화](https://devops-game.tistory.com/12)  
 • [MSA 환경에서 SNS + SQS, Apache Kafka를 활용하여 시스템 결합도 낮추기](https://devops-game.tistory.com/13)  
+• [Route53 가중치 라우팅으로 안전하게 카나리아 배포하기](https://devops-game.tistory.com/15)
 
 
 </div><br><br><br>
