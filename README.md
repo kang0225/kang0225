@@ -61,6 +61,32 @@
 
 </div><br><br><br>
 
+<!-- 자격증증 -->
+<h2 align="center"> 🏅 Certifications </h1>
+
+<table align="center">
+  <tr align="center">
+    <td><a href="SAA_CREDLY_LINK"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150"/></a></td>
+    <td><a href="MLEA_CREDLY_LINK"><img src="https://images.credly.com/size/340x340/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" width="150"/></a></td>
+    <td><a href="SQLD_VERIFY_LINK"><img src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="150"/></a></td>
+  </tr>
+  <tr align="center">
+    <td><b>AWS Certified Solutions Architect – Associate</b></td>
+    <td><b>AWS Certified Machine Learning Engineer – Associate</b></td>
+    <td><b>HashiCorp Certified Terraform - Associate</b></td>
+  </tr>
+  <tr align="center">
+    <td><b>Certified</b></td>
+    <td><b>In Progress</b></td>
+    <td><b>Planned</b></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.credly.com/badges/91d54f73-5407-4068-b778-e25abf2c6969/public_url">Verify Credential</b></td>
+    <td><a>-</b></td>
+    <td><a>-</b></td>
+</table>
+
+
 <!-- 연락처 -->
 <h2 align="center">Contact</h2>
 
