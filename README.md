@@ -48,9 +48,9 @@
   
 • [AWS VPC Endpoint를 활용한 보안 및 비용 최적화](https://devops-game.tistory.com/12)  
 • [MSA 환경에서 SNS + SQS, Apache Kafka를 활용하여 시스템 결합도 낮추기](https://devops-game.tistory.com/13)  
-• [Route53 가중치 라우팅으로 안전하게 카나리아 배포하기](https://devops-game.tistory.com/15)
-• [Terraform을 활용하여 안전한 SG 및 NACL 인바운드/아웃바운드 아키텍처 설계하기](https://devops-game.tistory.com/16)
-• [ECS on EC2와 ECS on Fargate를 비용과 운영 관점에서 비교하기](https://devops-game.tistory.com/17)
+• [Route53 가중치 라우팅으로 안전하게 카나리아 배포하기](https://devops-game.tistory.com/15)  
+• [Terraform을 활용하여 안전한 SG 및 NACL 인바운드/아웃바운드 아키텍처 설계하기](https://devops-game.tistory.com/16)  
+• [ECS on EC2와 ECS on Fargate를 비용과 운영 관점에서 비교하기](https://devops-game.tistory.com/17)  
 
 </div><br><br><br>
 
