@@ -1,13 +1,3 @@
-<!-- GitHub 팔로우 및 Twitter 팔로우 배지 -->
-<p align="center">
-  <a href="https://github.com/your_username">
-    <img src="https://img.shields.io/github/followers/your_username?style=social" alt="GitHub 팔로우">
-  </a>
-  <a href="https://twitter.com/your_twitter_handle">
-    <img src="https://img.shields.io/twitter/follow/your_twitter_handle?style=social" alt="Twitter 팔로우">
-  </a>
-</p>
-
 <!-- 개인 소개 및 인사말 -->
 <h1 align="center"> Hi There !👋</h1>
 
