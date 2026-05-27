@@ -37,6 +37,8 @@
 • [ECS on EC2와 ECS on Fargate를 비용과 운영 관점에서 비교하기](https://devops-game.tistory.com/17)  
 • [ISMS-P 인증 받는 클라우드 아키텍처 핵심 7가지](https://devops-game.tistory.com/18)  
 • [Terraform Remote Backend & DynamoDB Locking](https://devops-game.tistory.com/19)  
+• [ALB와 TLS/SSL 인증서로 HTTPS 암호화 통신 구현하기](https://devops-game.tistory.com/20)  
+• [Amazon Bedrock 기반 RAG와 Agent 아키텍처 설계](https://devops-game.tistory.com/21)  
 </div><br><br><br>
 
 <p align="center">2. 스스로 알고리즘 공부를 위해 문제를 풀이하는 공간입니다.</p>
