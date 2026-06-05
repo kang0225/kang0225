@@ -50,30 +50,83 @@
 </div><br><br><br>
 
 <!-- 자격증증 -->
-<h2 align="center"> 🏅 Certifications </h1>
+<h2 align="center"> 🏅 Certifications </h2>
 
-<table align="center">
+<table align="center" width="750">
   <tr align="center">
-    <td><a href="SAA_CREDLY_LINK"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150"/></a></td>
-    <td><a href="SQLD_CREDLY_LINK"><img src="https://velog.velcdn.com/images/kimyeji203/post/0455f8cf-57aa-42bf-a683-651048348368/image.png" width="150"/></a></td>
-    <td><a href="TERRAFORM_VERIFY_LINK"><img src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="150"/></a></td>
+    <td width="250">
+      <a href="https://www.credly.com/badges/91d54f73-5407-4068-b778-e25abf2c6969/public_url">
+        <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150"/>
+      </a>
+    </td>
+    <td width="250">
+      <a href="#">
+        <img src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="150"/>
+      </a>
+    </td>
+    <td width="250">
+      <a href="#">
+        <img src="https://velog.velcdn.com/images/kimyeji203/post/0455f8cf-57aa-42bf-a683-651048348368/image.png" width="150"/>
+      </a>
+    </td>
   </tr>
+
   <tr align="center">
-    <td><b>AWS Certified Solutions Architect – Associate</b></td>
-    <td><b>SQL Developer</b></td>
-    <td><b>HashiCorp Certified Terraform - Associate</b></td>
+    <td width="250"><b>AWS Certified Solutions Architect – Associate</b></td>
+    <td width="250"><b>HashiCorp Certified Terraform - Associate 004</b></td>
+    <td width="250"><b>SQL Developer</b></td>
   </tr>
+
   <tr align="center">
-    <td><b>Certified</b></td>
-    <td><b>Certified</b></td>
-    <td><b>In Progress</b></td>
+    <td width="250"><b>Certified</b></td>
+    <td width="250"><b>Certified</b></td>
+    <td width="250"><b>Certified</b></td>
   </tr>
+
   <tr align="center">
-    <td><a href="https://www.credly.com/badges/91d54f73-5407-4068-b778-e25abf2c6969/public_url">Verify Credential</b></td>
-    <td><a>-</b></td>
-    <td><a>-</b></td>
+    <td width="250">
+      <a href="https://www.credly.com/badges/91d54f73-5407-4068-b778-e25abf2c6969/public_url">Verify Credential</a>
+    </td>
+    <td width="250">Verify Credential</td>
+    <td width="250">-</td>
+  </tr>
 </table>
 
+<br/>
+
+<h2 align="center"> 🏅 MicroCredentials </h2>
+
+<table align="center" width="750">
+  <tr align="center">
+    <td width="250">
+      <a href="https://www.credly.com/badges/4204882b-430f-45a4-8a3a-226e3ba0668b/public_url">
+        <img src="https://images.credly.com/size/220x220/images/ed8cf03b-6269-4265-a65b-68e67e49ce6b/blob" width="150"/>
+      </a>
+    </td>
+    <td width="250">-</td>
+    <td width="250">-</td>
+  </tr>
+
+  <tr align="center">
+    <td width="250"><b>AWS Application Networking Demonstrated</b></td>
+    <td width="250"><b>-</b></td>
+    <td width="250"><b>-</b></td>
+  </tr>
+
+  <tr align="center">
+    <td width="250"><b>Certified</b></td>
+    <td width="250"><b>-</b></td>
+    <td width="250"><b>-</b></td>
+  </tr>
+
+  <tr align="center">
+    <td width="250">
+      <a href="https://www.credly.com/badges/4204882b-430f-45a4-8a3a-226e3ba0668b/public_url">Verify Credential</a>
+    </td>
+    <td width="250">-</td>
+    <td width="250">-</td>
+  </tr>
+</table>
 
 <!-- 연락처 -->
 <h2 align="center">Contact</h2>
