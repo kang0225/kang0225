@@ -1,22 +1,26 @@
 <!-- 개인 소개 및 인사말 -->
-<h1 align="center"> Hi There !👋</h1>
+<h1 align="center"> Hi There !</h1>
 
 <p align="center">
-  안녕하세요! DevOps/MLOps 지망생 강민종입니다 !  
+  안녕하세요! CloudOps 지망생 강민종입니다 !  
   
 </p>
 
 <!-- 기술 스택 -->
 <h2 align="center">Tools I program with</h2>
 <p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white" alt="Azure"><br>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"><br>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog">
 </p>
 
 <!-- My lab -->
-<h2 align="center">🧪 My Lab</h2>
+<h2 align="center">My Lab</h2>
 
 <p align="center">1. 더 좋은 알고리즘을 만들기 위해 스스로 공부하며 지식을 쌓는 공간입니다.</p>
 
@@ -39,6 +43,7 @@
 • [Terraform Remote Backend & DynamoDB Locking](https://devops-game.tistory.com/19)  
 • [ALB와 TLS/SSL 인증서로 HTTPS 암호화 통신 구현하기](https://devops-game.tistory.com/20)  
 • [Amazon Bedrock 기반 RAG와 Agent 아키텍처 설계](https://devops-game.tistory.com/21)  
+• [ECS on EC2에서 Fargate로! 무중단 Blue/Green 배포의 용량 데드락 해결기](https://devops-game.tistory.com/22)  
 </div><br><br><br>
 
 <p align="center">2. 스스로 알고리즘 공부를 위해 문제를 풀이하는 공간입니다.</p>
@@ -60,7 +65,7 @@
       </a>
     </td>
     <td width="250">
-      <a href="#">
+      <a href="https://www.credly.com/badges/94399f1a-025b-49f2-a18d-018262fa9d44/public_url">
         <img src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="150"/>
       </a>
     </td>
@@ -78,23 +83,21 @@
   </tr>
 
   <tr align="center">
-    <td width="250"><b>Certified</b></td>
-    <td width="250"><b>Certified</b></td>
-    <td width="250"><b>Certified</b></td>
-  </tr>
-
-  <tr align="center">
     <td width="250">
       <a href="https://www.credly.com/badges/91d54f73-5407-4068-b778-e25abf2c6969/public_url">Verify Credential</a>
     </td>
-    <td width="250">Verify Credential</td>
-    <td width="250">-</td>
+    <td width="250">
+      <a href="https://www.credly.com/badges/94399f1a-025b-49f2-a18d-018262fa9d44/public_url">Verify Credential</a>
+    </td>
+    <td width="250">
+      <a href="https://www.credly.com/badges/">Verify Credential</a>
+    </td>
   </tr>
 </table>
 
 <br/>
 
-<h2 align="center"> 🏅 MicroCredentials </h2>
+<h2 align="center"> 🥈 MicroCredentials </h2>
 
 <table align="center" width="750">
   <tr align="center">
@@ -109,12 +112,6 @@
 
   <tr align="center">
     <td width="250"><b>AWS Application Networking Demonstrated</b></td>
-    <td width="250"><b>-</b></td>
-    <td width="250"><b>-</b></td>
-  </tr>
-
-  <tr align="center">
-    <td width="250"><b>Certified</b></td>
     <td width="250"><b>-</b></td>
     <td width="250"><b>-</b></td>
   </tr>
@@ -136,7 +133,11 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://instagram.com/minwhd">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/min-jong-kang-184554409/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 <!-- 기여 방법 -->
