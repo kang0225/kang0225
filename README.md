@@ -44,7 +44,7 @@
 • [ALB와 TLS/SSL 인증서로 HTTPS 암호화 통신 구현하기](https://devops-game.tistory.com/20)  
 • [Amazon Bedrock 기반 RAG와 Agent 아키텍처 설계](https://devops-game.tistory.com/21)  
 • [<ECS 운영 트러블슈팅 #1> EC2에서 Fargate로! 무중단 Blue/Green 배포의 용량 데드락 해결기](https://devops-game.tistory.com/22)  
-• [<ECS 운영 트러블슈팅 #2> Fargate 전환 후 발생한 Multi-AZ 통신 장애: NACL 구성 해결기](https://devops-game.tistory.com/23)  
+• [<ECS 운영 트러블슈팅 #2> Fargate 전환 후 발생한 Multi-AZ 통신 장애 해결기](https://devops-game.tistory.com/23)  
 
 </div><br><br><br>
 
