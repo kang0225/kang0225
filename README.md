@@ -43,7 +43,9 @@
 • [Terraform Remote Backend & DynamoDB Locking](https://devops-game.tistory.com/19)  
 • [ALB와 TLS/SSL 인증서로 HTTPS 암호화 통신 구현하기](https://devops-game.tistory.com/20)  
 • [Amazon Bedrock 기반 RAG와 Agent 아키텍처 설계](https://devops-game.tistory.com/21)  
-• [ECS on EC2에서 Fargate로! 무중단 Blue/Green 배포의 용량 데드락 해결기](https://devops-game.tistory.com/22)  
+• [<ECS 운영 트러블슈팅 #1> EC2에서 Fargate로! 무중단 Blue/Green 배포의 용량 데드락 해결기](https://devops-game.tistory.com/22)  
+• [<ECS 운영 트러블슈팅 #2> Fargate 전환 후 발생한 Multi-AZ 통신 장애: NACL 구성 해결기](https://devops-game.tistory.com/23)  
+
 </div><br><br><br>
 
 <p align="center">2. 스스로 알고리즘 공부를 위해 문제를 풀이하는 공간입니다.</p>
