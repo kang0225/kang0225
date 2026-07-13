@@ -2,7 +2,7 @@
 <h1 align="center"> Hi There !</h1>
 
 <p align="center">
-  안녕하세요! CloudOps 지망생 강민종입니다 !  
+  안녕하세요! Dev/CloudOps 지망생 강민종입니다 !  
   
 </p>
 
@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"><br>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog">
 </p>
@@ -45,6 +44,7 @@
 • [Amazon Bedrock 기반 RAG와 Agent 아키텍처 설계](https://devops-game.tistory.com/21)  
 • [<ECS 운영 트러블슈팅 #1> EC2에서 Fargate로! 무중단 Blue/Green 배포의 용량 데드락 해결기](https://devops-game.tistory.com/22)  
 • [<ECS 운영 트러블슈팅 #2> Fargate 전환 후 발생한 Multi-AZ 통신 장애 해결기](https://devops-game.tistory.com/23)  
+• [Kubernetes CNI 플러그인 Calico의 Pod간 패킷 라우팅 구조](https://devops-game.tistory.com/24)  
 
 </div><br><br><br>
 
