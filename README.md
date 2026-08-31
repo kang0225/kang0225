@@ -4,7 +4,7 @@
 <p align="center">
   안녕하세요! Dev/CloudOps 지망생 강민종입니다 !  
   
-</p>
+</p><br><br>
 
 <!-- 기술 스택 -->
 <h2 align="center">Tools I program with</h2>
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"><br>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog">
-</p>
+</p><br><br>
 
 <!-- My lab -->
 <h2 align="center">My Lab</h2>
@@ -57,7 +57,7 @@
 </div><br><br><br>
 
 <!-- 자격증증 -->
-<h2 align="center"> 🏅 Certifications </h2>
+<h2 align="center"> Certifications </h2>
 
 <table align="center" width="750">
   <tr align="center">
@@ -67,21 +67,21 @@
       </a>
     </td>
     <td width="250">
-      <a href="https://www.credly.com/badges/94399f1a-025b-49f2-a18d-018262fa9d44/public_url">
-        <img src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="150"/>
+      <a href="">
+        <img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="150"/>
       </a>
     </td>
     <td width="250">
-      <a href="#">
-        <img src="https://velog.velcdn.com/images/kimyeji203/post/0455f8cf-57aa-42bf-a683-651048348368/image.png" width="150"/>
+      <a href="https://www.credly.com/badges/94399f1a-025b-49f2-a18d-018262fa9d44/public_url">
+        <img src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="150"/>
       </a>
     </td>
   </tr>
 
   <tr align="center">
-    <td width="250"><b>AWS Certified Solutions Architect – Associate</b></td>
-    <td width="250"><b>HashiCorp Certified Terraform - Associate 004</b></td>
-    <td width="250"><b>SQL Developer</b></td>
+    <td width="250"><b>AWS Certified Solutions Architect Associate</b></td>
+    <td width="250"><b>Certified Kubernetes Administrator</b></td>
+    <td width="250"><b>HashiCorp Certified Terraform Associate 004</b></td>
   </tr>
 
   <tr align="center">
@@ -92,40 +92,14 @@
       <a href="https://www.credly.com/badges/94399f1a-025b-49f2-a18d-018262fa9d44/public_url">Verify Credential</a>
     </td>
     <td width="250">
-      <a href="https://www.credly.com/badges/">Verify Credential</a>
+      <a href="https://www.credly.com/badges/94399f1a-025b-49f2-a18d-018262fa9d44/public_url">Verify Credential</a>
     </td>
   </tr>
-</table>
-
+</table>  
+<p align="center"><br>
+• SQL Developer
+</p>  
 <br/>
-
-<h2 align="center"> 🥈 MicroCredentials </h2>
-
-<table align="center" width="750">
-  <tr align="center">
-    <td width="250">
-      <a href="https://www.credly.com/badges/4204882b-430f-45a4-8a3a-226e3ba0668b/public_url">
-        <img src="https://images.credly.com/size/220x220/images/ed8cf03b-6269-4265-a65b-68e67e49ce6b/blob" width="150"/>
-      </a>
-    </td>
-    <td width="250">-</td>
-    <td width="250">-</td>
-  </tr>
-
-  <tr align="center">
-    <td width="250"><b>AWS Application Networking Demonstrated</b></td>
-    <td width="250"><b>-</b></td>
-    <td width="250"><b>-</b></td>
-  </tr>
-
-  <tr align="center">
-    <td width="250">
-      <a href="https://www.credly.com/badges/4204882b-430f-45a4-8a3a-226e3ba0668b/public_url">Verify Credential</a>
-    </td>
-    <td width="250">-</td>
-    <td width="250">-</td>
-  </tr>
-</table>
 
 <!-- 연락처 -->
 <h2 align="center">Contact</h2>
@@ -140,14 +114,14 @@
   <a href="https://www.linkedin.com/in/min-jong-kang-184554409/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</p>
+</p><br><br>
 
 <!-- 기여 방법 -->
 <h2 align="center">Contribute</h2>
 
 <p align="center">
   이 프로젝트에 대해 기여하고 싶거나 질문이 있는 경우 <strong>연락해 주세요!</strong>
-</p>
+</p><br><br>
 
 ---
 
