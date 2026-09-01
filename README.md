@@ -67,7 +67,7 @@
       </a>
     </td>
     <td width="250">
-      <a href="">
+      <a href="https://www.credly.com/badges/0bf0d226-e313-4289-92e0-578f1e851d48/public_url">
         <img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="150"/>
       </a>
     </td>
@@ -89,7 +89,7 @@
       <a href="https://www.credly.com/badges/91d54f73-5407-4068-b778-e25abf2c6969/public_url">Verify Credential</a>
     </td>
     <td width="250">
-      <a href="https://www.credly.com/badges/94399f1a-025b-49f2-a18d-018262fa9d44/public_url">Verify Credential</a>
+      <a href="https://www.credly.com/badges/0bf0d226-e313-4289-92e0-578f1e851d48/public_url">Verify Credential</a>
     </td>
     <td width="250">
       <a href="https://www.credly.com/badges/94399f1a-025b-49f2-a18d-018262fa9d44/public_url">Verify Credential</a>
