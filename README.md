@@ -9,8 +9,8 @@
 <!-- 기술 스택 -->
 <h2 align="center">Tools I program with</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS"><br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"><br>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"><br>
@@ -50,6 +50,7 @@
 • [<ECS 운영 트러블슈팅 #1> EC2에서 Fargate로! 무중단 Blue/Green 배포의 용량 데드락 해결기](https://devops-game.tistory.com/22)  
 • [<ECS 운영 트러블슈팅 #2> Fargate 전환 후 발생한 Multi-AZ 통신 장애 해결기](https://devops-game.tistory.com/23)  
 • [Kubernetes CNI 플러그인 Calico의 Pod간 패킷 라우팅 구조](https://devops-game.tistory.com/24)  
+• [<네트워크 트러블슈팅> 실시간 데이터 전송 중 몰래 끊기던 TCP 연결, Wireshark 패킷 분석으로 해결하기](https://devops-game.tistory.com/25)
 
 </div><br><br><br>
 
