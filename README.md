@@ -10,7 +10,7 @@
 <h2 align="center">Tools I program with</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white" alt="Azure"><br>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"><br>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"><br>
@@ -56,7 +56,7 @@
 
 </div><br><br><br>
 
-<!-- 자격증증 -->
+<!-- 자격증 -->
 <h2 align="center"> Certifications </h2>
 
 <table align="center" width="750">
@@ -105,7 +105,7 @@
 <h2 align="center">Contact</h2>
 
 <p align="center">
-  <a href="kjskkdkmj@gmail.com">
+  <a href="mailto:kjskkdkmj@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://instagram.com/minwhd">
