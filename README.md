@@ -1,12 +1,12 @@
-<!-- 개인 소개 및 인사말 -->
+<!-- Personal introduction and greeting -->
 <h1 align="center"> Hi There !</h1>
 
 <p align="center">
-  안녕하세요! Dev/CloudOps 지망생 강민종입니다 !  
+  Hello! I am Minjong Kang, an aspiring Dev/CloudOps engineer!  
   
 </p><br><br>
 
-<!-- 기술 스택 -->
+<!-- Tech stack -->
 <h2 align="center">Tools I program with</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS">
@@ -62,7 +62,7 @@
 
 </div><br><br><br>
 
-<!-- 자격증 -->
+<!-- Certifications -->
 <h2 align="center"> Certifications </h2>
 
 <table align="center" width="750">
@@ -107,7 +107,7 @@
 </p>  
 <br/>
 
-<!-- 연락처 -->
+<!-- Contact -->
 <h2 align="center">Contact</h2>
 
 <p align="center">
@@ -122,11 +122,11 @@
   </a>
 </p><br><br>
 
-<!-- 기여 방법 -->
+<!-- Contribution -->
 <h2 align="center">Contribute</h2>
 
 <p align="center">
-  이 프로젝트에 대해 기여하고 싶거나 질문이 있는 경우 <strong>연락해 주세요!</strong>
+  If you would like to contribute to this project or have any questions, <strong>please feel free to contact me!</strong>
 </p><br><br>
 
 ---
