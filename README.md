@@ -1,3 +1,8 @@
+<!-- Header -->
+<div align="center">
+  <img src="./assets/minjong-header.svg" width="100%" alt="Minjong's Github" />
+</div>
+
 <!-- Personal introduction and greeting -->
 <h1 align="center"> Hi There !</h1>
 
