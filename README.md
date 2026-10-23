@@ -15,17 +15,13 @@
 <h2 align="center">Tools I program with</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"><br>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"><br>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm">
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"><br>
-  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
 </p><br><br>
 
 <!-- My lab -->
@@ -35,27 +31,7 @@
 
 <div align="center">
 
-• [BruteForce 공격 방어를 위한 해싱 알고리즘 #1](https://devops-game.tistory.com/3)  
-• [BruteForce 공격 방어를 위한 해싱 알고리즘 #2](https://devops-game.tistory.com/4)  
-• [데이터베이스 정규화와 성능 최적화 전략](https://devops-game.tistory.com/5)  
-• [캐시를 활용한 고성능 데이터 조회 시스템](https://devops-game.tistory.com/6)  
-• [대규모 데이터베이스 성능 향상을 위한 샤딩 알고리즘](https://devops-game.tistory.com/7)  
-• [B+트리를 활용하여 DB 인덱싱하기](https://devops-game.tistory.com/8)  
-• [데이터 불균형 문제 해소를 위한 SMOTE와 SMOTEENN 샘플링 기법](https://devops-game.tistory.com/11)    
-  
-• [AWS VPC Endpoint를 활용한 보안 및 비용 최적화](https://devops-game.tistory.com/12)  
-• [MSA 환경에서 SNS + SQS, Apache Kafka를 활용하여 시스템 결합도 낮추기](https://devops-game.tistory.com/13)  
-• [Route53 가중치 라우팅으로 안전하게 카나리아 배포하기](https://devops-game.tistory.com/15)  
-• [Terraform을 활용하여 안전한 SG 및 NACL 인바운드/아웃바운드 아키텍처 설계하기](https://devops-game.tistory.com/16)  
-• [ECS on EC2와 ECS on Fargate를 비용과 운영 관점에서 비교하기](https://devops-game.tistory.com/17)  
-• [ISMS-P 인증 받는 클라우드 아키텍처 핵심 7가지](https://devops-game.tistory.com/18)  
-• [Terraform Remote Backend & DynamoDB Locking](https://devops-game.tistory.com/19)  
-• [ALB와 TLS/SSL 인증서로 HTTPS 암호화 통신 구현하기](https://devops-game.tistory.com/20)  
-• [Amazon Bedrock 기반 RAG와 Agent 아키텍처 설계](https://devops-game.tistory.com/21)  
-• [<ECS 운영 트러블슈팅 #1> EC2에서 Fargate로! 무중단 Blue/Green 배포의 용량 데드락 해결기](https://devops-game.tistory.com/22)  
-• [<ECS 운영 트러블슈팅 #2> Fargate 전환 후 발생한 Multi-AZ 통신 장애 해결기](https://devops-game.tistory.com/23)  
-• [Kubernetes CNI 플러그인 Calico의 Pod간 패킷 라우팅 구조](https://devops-game.tistory.com/24)  
-• [<네트워크 트러블슈팅> 실시간 데이터 전송 중 몰래 끊기던 TCP 연결, Wireshark 패킷 분석으로 해결하기](https://devops-game.tistory.com/25)
+[바로가기](https://devops-game.tistory.com/)
 
 </div><br><br><br>
 
