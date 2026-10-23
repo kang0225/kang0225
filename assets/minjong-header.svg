@@ -82,11 +82,11 @@
 </g>
 
 <use href="#title" fill="#000" fill-opacity=".55" transform="translate(0 10)" filter="url(#drop)"/>
-<use href="#title" fill="url(#chrome)"/>
-<use href="#title" fill="none" stroke="url(#bevel)" stroke-width="1"/>
+<use href="#title" fill="#ffffff"/>
+
 <g class="fx" visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" values="hidden;visible;hidden" keyTimes="0;0.095;0.400"/>
   <use href="#title" fill="url(#shine)" filter="url(#bloom)"/>
-  <use href="#title" fill="url(#shine)"/>
+  
 </g>
 <g class="fx"><g transform="translate(202.16 76)"><g transform="scale(0)">
     <animateTransform attributeName="transform" type="scale" dur="8s" repeatCount="indefinite" calcMode="spline"
