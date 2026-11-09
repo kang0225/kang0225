@@ -7,7 +7,7 @@
 <h1 align="center"> Hi There !</h1>
 
 <p align="center">
-  Hello! I am Minjong Kang, an aspiring Dev/CloudOps engineer!  
+  Hello! I am Minjong Kang, an aspiring DevOps/Backend engineer!  
   
 </p><br><br>
 
